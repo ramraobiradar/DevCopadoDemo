@@ -184,7 +184,7 @@
         <fullName>Field_Three__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
-        <label>Field Three</label>
+        <label>Field Threee</label>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
